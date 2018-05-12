@@ -1,0 +1,38 @@
+_repo: Right-on-the-Scaffold-or-The-Martyrs-of-1822The-American-Negro-Academy.-Occasional-Papers-No.__31290
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grimké, Archibald Henry
+    aliases:
+    - Grimke, Archibald Henry
+    - Grimké, Archibald H.
+    birthdate: 1849
+    deathdate: 1930
+    gutenberg_agent_id: '5574'
+    url: http://www.gutenberg.org/2009/agents/5574
+    wikipedia: http://en.wikipedia.org/wiki/Archibald_Grimke
+description: In this volume Grimke tells the story of Denmark Vesey, a freed, literate
+  slave and a respected community member of Charleston, South Carolina. Vesey became
+  convinced that the slaves were God's chosen people, like the Jews of the Old Testament,
+  and led an unsuccessful insurrection against white slaveholders that resulted in
+  dramatic trials and executions.
+gutenberg_issued: '2010-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31290'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vesey, Denmark, approximately 1767-1822'
+- !lcsh 'Slave insurrections -- South Carolina -- Charleston'
+- !lcsh 'Charleston (S.C.) -- History -- Slave Insurrection, 1822'
+- !lcc 'E151'
+title: 'Right on the Scaffold, or The Martyrs of 1822
+
+  The American Negro Academy. Occasional Papers No. 7'
+url: http://www.gutenberg.org/ebooks/31290
